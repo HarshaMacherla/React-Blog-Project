@@ -1,0 +1,16 @@
+{
+  "posts": [
+    {
+      "id": 4,
+      "title": "4th Post",
+      "datetime": "October 25, 2023 1:07:15 PM",
+      "body": "This is not the fourth post anymore!"
+    },
+    {
+      "id": 5,
+      "title": "My new Post 1",
+      "datetime": "October 29, 2023 6:57:57 PM",
+      "body": "Nothing here. Just a test post."
+    }
+  ]
+}
